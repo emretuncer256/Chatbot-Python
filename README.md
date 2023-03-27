@@ -35,6 +35,6 @@ To use the chatbot, simply run the main.py script and enter text input. The chat
 Note that the chatbot's performance may be limited by the quality and quantity of the training data, as well as by the complexity of the neural network architecture. Further improvements can be made by adding more training data, fine-tuning the neural network, and adding more sophisticated natural language processing techniques.
 
 ## Screenshot
-![Screenshot](screenshott/sc1.png)
+![Screenshot](screenshot/sc1.png)
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details
